@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -37,28 +13,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Viborg",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-09-21T15:08:51.626Z",
+      "notes": "dasdfas",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "56.46059162886092",
+        "lng": "8.986058996176142"
       },
-      "id": 125213
+      "id": 98443198
     },
     {
-      "cityName": "Barcelona",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Arhus",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-09-21T15:46:57.055Z",
+      "notes": "Ja okat harlev\n",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "56.13723264630982",
+        "lng": "10.026551335281447"
       },
-      "id": 66662
+      "id": 98443199
     }
   ]
 }
